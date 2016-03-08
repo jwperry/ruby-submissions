@@ -14,7 +14,7 @@ Please submit a link to your repo:
 * James Crockett:
 * John Slota:
 * Jordan Lawler:
-* Joseph Perry:
+* Joseph Perry: https://github.com/jwperry/module_3_assessment
 * Justin Pease:
 * Lenny Myerson:
 * Penney Garrett:
